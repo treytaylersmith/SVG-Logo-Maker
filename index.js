@@ -1,3 +1,5 @@
-const Square = require('./lib/square');
-const Triangle = require('./lib/triangle');
-const Circle = require('./lib/circle');
+const CLI = require('./lib/cli.js');
+
+const cli = new CLI();
+
+cli.run();

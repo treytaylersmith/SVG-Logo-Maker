@@ -1,9 +1,10 @@
 {
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "dependencies": {
-    "inquirer": "^10.1.8"
+    "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^29.7.0"
