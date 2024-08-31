@@ -12,7 +12,7 @@ node js
 Refer to program package
 
 ## Usage
-To create simplistic logos
+To create simplistic logos. Navigate to the main folder and type "npm start" into the terminal to execute
 
 ## License
 
