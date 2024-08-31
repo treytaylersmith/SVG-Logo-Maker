@@ -3,6 +3,8 @@
     "test": "jest",
     "start": "node index.js"
   },
+  "author": "Trey Tayler Smith",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
