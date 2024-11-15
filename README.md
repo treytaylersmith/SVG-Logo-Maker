@@ -1,7 +1,7 @@
 # SVG-Logo-Maker
 
 ## Description
-A program that prompts a user for simple logo information and creates turns that information into an SVG file.
+A program that prompts a user for simple logo information and turns that information into an SVG file.
 
 ![image](/examples/example-logo.png)
 
